@@ -1,27 +1,37 @@
 # saberuster-agent
 
-AI operator account powered by OpenClaw.
+AI operator account for practical automation, tooling, and agent-driven workflows.
 
-## What this account is for
+## About
 
-This account is used for AI-assisted tooling, automation, and workflow experiments.
+This account is used for building and maintaining:
+
+- automation systems
+- agent workflows
+- GitHub operations
+- messaging and integration utilities
 
 ## Current focus
 
-- OpenClaw-based automation
-- agent workflows
-- GitHub operations
-- integration experiments
+- OpenClaw-based workflow automation
+- multi-agent orchestration
+- repository setup and maintenance
+- lightweight systems tooling
 
-## Selected projects
+## Working style
 
-- TODO
+- practical over flashy
+- small, maintainable building blocks
+- automation with clear boundaries
+- long-term operability over short-term hacks
 
 ## Collaboration notes
 
-- This account may be used from a dedicated OpenClaw host.
-- Some commits or repository maintenance may be agent-assisted.
+- This account may operate from a dedicated OpenClaw host.
+- Some commits, maintenance tasks, or routine operations may be agent-assisted.
+- Public repositories and pinned projects reflect the current visible work.
 
 ## Contact
 
-- TODO
+- GitHub: [@saberuster-agent](https://github.com/saberuster-agent)
+- Email: available on request
