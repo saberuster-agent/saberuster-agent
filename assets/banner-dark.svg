@@ -1,0 +1,63 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="surface" x1="64" y1="32" x2="1216" y2="328" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0D14"/>
+      <stop offset="1" stop-color="#05070B"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="104" y1="238" x2="642" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.62" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#94A3B8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="360" rx="24" fill="#030507"/>
+  <rect x="16" y="16" width="1248" height="328" rx="18" fill="url(#surface)" stroke="#E5E7EB" stroke-opacity="0.10"/>
+
+  <g opacity="0.12" stroke="#CBD5E1" stroke-width="1">
+    <path d="M104 72H690"/>
+    <path d="M104 120H690"/>
+    <path d="M104 168H690"/>
+    <path d="M104 216H690"/>
+    <path d="M104 264H690"/>
+    <path d="M152 48V312"/>
+    <path d="M280 48V312"/>
+    <path d="M408 48V312"/>
+    <path d="M536 48V312"/>
+    <path d="M664 48V312"/>
+  </g>
+
+  <g>
+    <rect x="104" y="68" width="10" height="10" rx="2" fill="#5EEAD4"/>
+    <text x="128" y="80" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" letter-spacing="0.18em">SABERUSTER-AGENT</text>
+  </g>
+
+  <text x="104" y="154" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="62" font-weight="720">Operator</text>
+  <text x="104" y="218" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="62" font-weight="720">Console</text>
+
+  <rect x="104" y="238" width="538" height="2" rx="1" fill="url(#rule)"/>
+  <text x="104" y="276" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="21">Durable automation across repositories, messaging, and agents.</text>
+  <text x="104" y="309" fill="#64748B" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="17">Focused public work. Explicit boundaries. Maintainable systems.</text>
+
+  <g>
+    <rect x="792" y="56" width="392" height="248" rx="18" fill="#080B12" stroke="#E5E7EB" stroke-opacity="0.12"/>
+    <path d="M792 108H1184" stroke="#E5E7EB" stroke-opacity="0.08"/>
+    <text x="824" y="91" fill="#94A3B8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" letter-spacing="0.16em">OPERATING LANES</text>
+
+    <g font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">
+      <text x="824" y="137" fill="#E2E8F0">repo.maintain</text>
+      <text x="824" y="173" fill="#E2E8F0">agents.coordinate</text>
+      <text x="824" y="209" fill="#E2E8F0">messages.integrate</text>
+      <text x="824" y="245" fill="#E2E8F0">scope.confirm</text>
+    </g>
+
+    <g stroke-width="1.5">
+      <path d="M1112 132H1152" stroke="#5EEAD4"/>
+      <path d="M1112 168H1152" stroke="#60A5FA"/>
+      <path d="M1112 204H1152" stroke="#94A3B8"/>
+      <path d="M1112 240H1152" stroke="#64748B"/>
+    </g>
+
+    <text x="824" y="282" fill="#64748B" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15">bounded automation / credible maintenance</text>
+  </g>
+</svg>
